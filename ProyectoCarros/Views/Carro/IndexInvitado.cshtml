@@ -1,0 +1,38 @@
+﻿@model IEnumerable<ProyectoCarros.Models.Carro>
+
+@{
+    ViewBag.Title = "UJosue";
+    Layout = "~/Views/Shared/_LayoutNuevo.cshtml";
+}
+
+<h2>Carros en venta</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Marca.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.modelo)
+        </th>
+                <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Marca.nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.modelo)
+        </td>
+              </tr>
+}
+
+</table>

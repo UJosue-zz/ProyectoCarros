@@ -1,0 +1,107 @@
+﻿@model ProyectoCarros.Models.Usuario
+
+@{
+    if (Session != null)
+    {
+        ViewBag.Title = "Create";
+        Layout = "~/Views/Shared/_LayoutNuevo.cshtml";
+    }
+    else
+    {
+        ViewBag.Title = "Create";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+}
+
+    @{
+        if (Session != null)
+        {
+        <h2>Create</h2>
+        }
+        else
+        {
+        <h2>Registrarse</h2>
+        }
+}
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        @{
+            if (Session != null)
+            {
+                <!--<h4>Registrarse</h4>-->
+            }
+            else
+            {
+                <h4> Usuario</h4>
+            }
+        }
+        
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.nombre, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.nombre, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.nombre, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.nick, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.nick, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.nick, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.contrasena, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.contrasena, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.contrasena, "", new { @class = "text-danger" })
+            </div>
+        </div>
+                        <div class="form-group">
+                    @Html.LabelFor(model => model.id_Rol, "id_Rol", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("id_Rol", null, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.id_Rol, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                @{
+                    if (Session != null)
+                    {
+                        <input type="submit" value="Crear" class="btn btn-default" />
+                    }
+                    else
+                    {
+                        <input type="submit" value="Registrarse" class="btn btn-default" />
+                    }
+                }
+                
+            </div>
+        </div>
+    </div>
+}
+    @{
+        if (Session != null)
+        {
+            <div>
+                @Html.ActionLink("Cancelar", "Index")
+            </div>
+        }
+    }
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

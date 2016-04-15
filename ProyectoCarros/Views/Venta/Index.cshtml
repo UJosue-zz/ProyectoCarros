@@ -1,0 +1,46 @@
+﻿@model IEnumerable<ProyectoCarros.Models.Venta>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lista de ventas</h2>
+
+<p>
+    @Html.ActionLink("Hacer una venta", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Carro.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Usuario.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fecha_Venta)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Carro.nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Usuario.nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.fecha_Venta)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.id_Venta }) |
+            @Html.ActionLink("Ver factura", "Details", new { id=item.id_Venta }) |
+            @Html.ActionLink("Eliminar", "Delete", new { id=item.id_Venta })
+        </td>
+    </tr>
+}
+
+</table>

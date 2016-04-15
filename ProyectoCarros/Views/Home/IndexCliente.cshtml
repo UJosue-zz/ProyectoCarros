@@ -1,0 +1,61 @@
+﻿@model IEnumerable<ProyectoCarros.Models.Carro>
+
+@{
+    ViewBag.Title = "IndexCliente";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var rol = Convert.ToInt32(Session["LoginAttempt"]);
+    if (rol == 1)
+       {
+            Layout = "~/Views/Shared/_Layout.cshtml";
+        }
+        else
+        {
+            Layout = "~/Views/Shared/_LayoutCliente.cshtml";
+        }
+}
+
+<h2>IndexCliente</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Marca.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.modelo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.precio)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Marca.nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.modelo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.precio)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id_Carro }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id_Carro }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id_Carro })
+        </td>
+    </tr>
+}
+
+</table>

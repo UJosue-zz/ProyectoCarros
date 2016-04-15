@@ -1,0 +1,43 @@
+﻿@model ProyectoCarros.Models.Venta
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Factura</h2>
+
+<div>
+    <h4>Venta</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Carro.nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Carro.nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Usuario.nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Usuario.nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fecha_Venta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fecha_Venta)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.id_Venta }) |
+    @Html.ActionLink("Cancelar", "Index")
+</p>

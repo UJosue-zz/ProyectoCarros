@@ -1,0 +1,142 @@
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\roslyn\csc.exe
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\roslyn\vbc.exe
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\roslyn\VBCSCompiler.exe
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\ProyectoCarros.dll.config
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\ProyectoCarros.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\ProyectoCarros.pdb
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Antlr3.Runtime.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\EntityFramework.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\EntityFramework.SqlServer.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Newtonsoft.Json.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Owin.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\System.Web.Helpers.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\System.Web.Mvc.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\System.Web.Optimization.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\System.Web.Razor.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\System.Web.WebPages.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\System.Web.WebPages.Razor.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\WebGrease.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\System.Web.Helpers.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\System.Web.Mvc.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\System.Web.Optimization.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\System.Web.Razor.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\System.Web.WebPages.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\System.Web.WebPages.Razor.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Antlr3.Runtime.pdb
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Newtonsoft.Json.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\EntityFramework.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\EntityFramework.SqlServer.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\obj\Debug\ProyectoCarros.csprojResolveAssemblyReference.cache
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\obj\Debug\ProyectoCarros.Migrations.DB_Carro.resources
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\obj\Debug\ProyectoCarros.csproj.GenerateResource.Cache
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\obj\Debug\ProyectoCarros.dll
+C:\Users\Informatica\Desktop\ProyectoCarros\ProyectoCarros\obj\Debug\ProyectoCarros.pdb
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\roslyn\csc.exe
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\roslyn\System.Collections.Immutable.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\roslyn\System.Reflection.Metadata.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\roslyn\vbc.exe
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\roslyn\VBCSCompiler.exe
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\roslyn\VBCSCompiler.exe.config
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\ProyectoCarros.dll.config
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\ProyectoCarros.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\ProyectoCarros.pdb
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Antlr3.Runtime.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\EntityFramework.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\EntityFramework.SqlServer.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.Google.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.Web.Infrastructure.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Newtonsoft.Json.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Owin.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\System.Web.Helpers.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\System.Web.Mvc.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\System.Web.Optimization.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\System.Web.Razor.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\System.Web.WebPages.Deployment.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\System.Web.WebPages.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\System.Web.WebPages.Razor.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\WebGrease.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\System.Web.Helpers.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\System.Web.Mvc.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\System.Web.Optimization.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\System.Web.Razor.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\System.Web.WebPages.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\System.Web.WebPages.Deployment.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\System.Web.WebPages.Razor.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Antlr3.Runtime.pdb
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Newtonsoft.Json.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\EntityFramework.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\EntityFramework.SqlServer.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.Google.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\obj\Debug\ProyectoCarros.csprojResolveAssemblyReference.cache
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\obj\Debug\ProyectoCarros.Migrations.DB_Carro.resources
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\obj\Debug\ProyectoCarros.csproj.GenerateResource.Cache
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\obj\Debug\ProyectoCarros.dll
+F:\Nueva carpeta (3)\ProyectoCarros\ProyectoCarros\obj\Debug\ProyectoCarros.pdb
